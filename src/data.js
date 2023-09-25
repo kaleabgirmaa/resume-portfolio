@@ -12,7 +12,7 @@ const projects = [
     {
         title: 'Coming Soon!',
         description: 'Work in progress',
-        stack: ['SvelteKit', 'Svelte', 'Tailwind',],
+        stack: ['HTML5', 'CSS3', '',],
         imgName: 'developer.jpg',
         siteUrl: 'https://kaleab.work',
         codeUrl: 'https://github.com/kaleabgirmaa/coming-soon-portfolio',
