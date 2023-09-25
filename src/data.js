@@ -1,5 +1,5 @@
-const displayName = 'Kaleab (G) Deriba'
-const bannerDescription = 'A Full-stack web and Python developer'
+const displayName = 'Kaleab (ancient) Deriba'
+const bannerDescription = 'A WannaBeDeveloper'
 const mediumUrl = '#'
 const mediumFilterKeyword = '#'
 const email = 'contact@kaleab.work'
