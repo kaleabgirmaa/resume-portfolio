@@ -14,8 +14,8 @@ const projects = [
         description: 'Work in progress',
         stack: ['SvelteKit', 'Svelte', 'Tailwind',],
         imgName: 'developer.jpg',
-        siteUrl: '',
-        codeUrl: '',
+        siteUrl: 'https://kaleab.work',
+        codeUrl: 'https://github.com/kaleabgirmaa/coming-soon-portfolio',
     }
 ]
 
